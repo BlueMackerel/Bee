@@ -1,5 +1,9 @@
 # Bee Programming Language Interpreter
 
+<img src="https://github.com/BlueMackerel/Bee/blob/master/utils/bee.png?raw=true">
+
+
+
 ## Overview
 `bee` is an interpreter for the Bee programming language. It provides functionality to parse and execute user-defined scripts.
 
